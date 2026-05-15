@@ -4,7 +4,7 @@ A repository showcasing my professional achievements, including industry certifi
 
 # Offer Letters
 
-<img width="500" height="650" alt="OfferLetterPage1" src="https://github.com/user-attachments/assets/369b7ac0-2350-4af4-a5b8-640e5725f933" /> <img width="1241" height="1754" alt="OfferLetterPage2" src="https://github.com/user-attachments/assets/14cd6123-c8cb-43c9-a8b3-6ac17483311b" />
+<img width="500" height="650" alt="OfferLetterPage1" src="https://github.com/user-attachments/assets/369b7ac0-2350-4af4-a5b8-640e5725f933" /> <img width="500" height="650" alt="OfferLetterPage2" src="https://github.com/user-attachments/assets/14cd6123-c8cb-43c9-a8b3-6ac17483311b" />
 
 # Badges 
 
@@ -14,4 +14,4 @@ Verify Link : https://www.credly.com/badges/de72830e-6f81-41d1-a9dc-0fb3e71f6d4c
 
 # Certificates
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ba3b07b6-112e-4e8c-a367-8be09f062b05" />
+<img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/ba3b07b6-112e-4e8c-a367-8be09f062b05" />
