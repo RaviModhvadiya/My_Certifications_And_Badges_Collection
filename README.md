@@ -14,4 +14,4 @@ Verify Link : https://www.credly.com/badges/de72830e-6f81-41d1-a9dc-0fb3e71f6d4c
 
 # Certificates
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ba3b07b6-112e-4e8c-a367-8be09f062b05" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/ba3b07b6-112e-4e8c-a367-8be09f062b05" />
